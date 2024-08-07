@@ -1,4 +1,4 @@
-# ![logo](https://www.gocharity.com.ng/_next/static/media/logo.ffaf4ffc.png) GO.Charity
+# <img src="https://www.gocharity.com.ng/_next/static/media/logo.ffaf4ffc.png" alt="Logo" width="200"/> GO.Charity
 
 Welcome to GO.Charity, a crowdfunding platform with a profound purpose. Founded by Mr. Prince C. Onukwili, GO.Charity is a pioneering initiative based in Nigeria that's rewriting the rules of crowdfunding. Our commitment goes beyond fundraising; we exist to amplify the voices of less privileged children, particularly those in orphanages. At GO.Charity, we're not just a platform; we're a movement for change.
 
